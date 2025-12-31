@@ -32,17 +32,6 @@ I enjoy building **scalable web applications**, learning modern JavaScript patte
 - RESTful API design  
 **Tech:** React, Node.js, Express, MongoDB
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarentoHashum&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarentoHashum&layout=compact&theme=github_dark" />
-</p>
 
 ---
 
