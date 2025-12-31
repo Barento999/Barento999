@@ -6,13 +6,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineering student** and **Full-Stack Developer** with a strong interest in **frontend development and clean UI design**.  
-I enjoy building **scalable web applications**, learning modern JavaScript patterns, and improving system design skills.
+I am a **Software Engineering student** and **Full-Stack Developer (MERN)** passionate about building **modern, responsive, and scalable web applications**.  
+I love creating **clean, user-friendly interfaces** and writing **efficient, maintainable code**.  
 
-- 🔭 Currently working on **MERN stack projects**
-- 🌱 Learning **advanced JavaScript, React patterns, and backend architecture**
-- 🎯 Focused on **clean code, performance, and usability**
-- 💡 Interested in **frontend architecture and UI/UX**
+🔭 Currently working on **MERN stack projects** and exploring advanced frontend architectures  
+🌱 Learning **Artificial Intelligence, Machine Learning, and AI-powered web applications**  
+🎯 Focused on **performance, usability, and clean code practices**  
+💡 Interested in **UI/UX design, frontend architecture, and innovative web solutions**
+
 
 ---
 
