@@ -3,8 +3,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color1=8A2BE2&color2=FF69B4&gradient=true&lines=Hi%2C+I'm+Barento+Hashum;Software+Engineering+Student;Full+Stack+Developer+(MERN);Frontend+Focused+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color1=8A2BE2&color2=FF69B4&gradient=true&lines=Hi%2C+I'm+Barento+Hashum;Software+Engineering+Student;Full+Stack+Developer+(MERN);Frontend+Focused+Developer;Artificial+Intelligence+Enthusiast" />
 </p>
+
 
 
 
