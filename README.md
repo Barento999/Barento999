@@ -67,7 +67,7 @@ A full-stack project management tool with task tracking, team collaboration, and
 
 ## 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://github.com/BarentoHashum/BarentoHashum/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/Barento999/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
