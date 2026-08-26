@@ -7,7 +7,6 @@ I'm a passionate Software Engineering student at **Haramaya University** with a 
 - 🎓 BSc in Software Engineering — Haramaya University
 - 💻 Interested in Full-Stack Web Development
 - 🔭 Currently building real-world web applications
-- 🌱 Currently learning Docker, PostgreSQL, Cloud Technologies, and AI/ML
 - 🚀 Focused on improving my skills in React, Node.js, Express, and databases
 - 📍 Ethiopia
 
@@ -72,13 +71,3 @@ A web-based application for managing student information, records, and academic 
 
 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
 
----
-
-## 📚 Currently Learning
-
-```text
-🐳 Docker & Containerization
-☁️ Cloud Computing & AWS
-🧠 Artificial Intelligence & Machine Learning
-🗄️ Advanced PostgreSQL
-🔐 Cybersecurity Fundamentals
