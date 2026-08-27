@@ -1,6 +1,6 @@
 # Hi, I'm Barento Hashum 👋
 
-### Full-Stack Developer | Software Engineering Student
+### Full-Stack Developer | Software Engineering Student at Haramaya University
 
 Building modern, scalable web applications with clean architecture and innovative solutions.
 
