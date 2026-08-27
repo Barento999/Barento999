@@ -1,123 +1,173 @@
-# Barento Hashum
+# Hi, I'm Barento Hashum 👋
 
-> Full-Stack Developer | Software Engineering Student | Haramaya University
+### Full-Stack Developer | Software Engineering Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+Building modern, scalable web applications with clean architecture and innovative solutions.
 
----
-
-## About
-
-Software Engineering student with hands-on experience building full-stack web applications. Skilled in JavaScript ecosystem with focus on React and Node.js. Strong problem-solving abilities and attention to clean, maintainable code.
-
-- **Education:** BSc Software Engineering — Haramaya University
-- **Focus:** Full-Stack Web Development (MERN Stack)
-- **Location:** Ethiopia
-- **Status:** Open to internships and freelance work
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barento-hashum-2a67221a6)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barentohashum11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barento999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portifolio-barento.vercel.app/)
 
 ---
 
-## Technical Skills
+## About Me
 
-| Category | Technologies |
-|:---|:---|
-| **Frontend** | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express.js, PHP, Python, REST APIs |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
-| **Tools** | Git, GitHub, Docker, VS Code, Postman, Figma, Linux |
+I'm a Software Engineering student at **Haramaya University** with a deep interest in building modern, scalable web applications. I enjoy the full development lifecycle — from designing intuitive user interfaces to architecting robust backend systems and deploying them to the cloud.
 
----
+### What I Do
 
-## Projects
+- Build responsive, performant web applications from concept to deployment
+- Design and implement RESTful APIs and database architectures
+- Write clean, testable, and well-documented code
+- Deploy and manage applications using cloud services and containerization
 
-### Haramaya University Website
-Modern university website providing students and staff access to academic resources, announcements, and services.
+### What I Value
 
-**Stack:** React, Node.js, Express.js, PostgreSQL, Docker, Tailwind CSS
+- Writing maintainable code that teams can collaborate on effectively
+- Solving real-world problems with practical, user-focused solutions
+- Continuous learning and staying current with evolving technologies
+- Collaboration and clear communication within development teams
 
-**Features:** Responsive design · Authentication system · Admin dashboard · Dark/Light theme
+### Currently Exploring
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Barento999/haramaya-university)
+- Server-side rendering and static generation with **Next.js**
+- Type-safe development with **TypeScript**
+- Cloud infrastructure and serverless architectures
+- Containerization and orchestration with **Docker**
 
----
-
-### Project Management System
-Full-stack application for teams to manage projects, tasks, and workflows with real-time collaboration.
-
-**Stack:** React, Node.js, Express.js, MongoDB, Socket.io
-
-**Features:** Task tracking · Team invitations · Calendar integration · Real-time notifications
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Barento999/project-management)
+| Location |      Education      |       Specialization       |        Focus        |
+| :------: | :-----------------: | :------------------------: | :-----------------: |
+| Ethiopia | Haramaya University | Full-Stack Web Development | Next.js, TypeScript |
 
 ---
 
-### Habesha Market
-E-commerce platform connecting local businesses with customers through product listings and secure transactions.
+## Tech Stack
 
-**Stack:** React, Node.js, Express.js, MongoDB, Stripe
+### Frontend
 
-**Features:** Product search · Shopping cart · Payment processing · Order tracking
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Barento999/habesha-market)
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### Student Management System
-Web application for educational institutions to manage student records, grades, and attendance.
-
-**Stack:** PHP, MySQL, JavaScript, Bootstrap
-
-**Features:** Student profiles · Grade management · Attendance tracking · Report generation
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Barento999/student-management)
-
----
-
-## GitHub Statistics
+## Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barento999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### Project Management System
+
+A collaborative platform for teams to manage projects, tasks, and workflows with real-time updates and analytics.
+
+**Stack:** React, Node.js, Express.js, MongoDB, Socket.io
+
+- Real-time collaboration with team invitations
+- Task management with status tracking and assignments
+- Calendar integration and deadline management
+- Analytics dashboard with activity insights
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barento999/project-management)
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barento999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### Habesha Market
+
+An e-commerce platform connecting customers with local businesses through product discovery, secure transactions, and order management.
+
+**Stack:** React, Node.js, Express.js, MongoDB, Stripe
+
+- Product listings with search and filtering
+- Secure payment processing via Stripe
+- Order tracking and history
+- Product reviews and ratings system
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barento999/habesha-market)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Student Management System
+
+A web application for managing student records, academic performance, attendance, and report generation.
+
+**Stack:** PHP, MySQL, JavaScript, Bootstrap
+
+- Student registration and profile management
+- Grade management with transcript generation
+- Attendance tracking and reporting
+- PDF report generation
+- Multi-role authentication system
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barento999/student-management)
 
 </td>
 </tr>
 </table>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Barento999&theme=tokyonight&hide_border=true)
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Barento999&theme=tokyonight&hide_border=true&color=61DAFB)
+## GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Barento999&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## Currently Learning
+## Currently
 
-| Technology | Area |
-|:---|:---|
-| Next.js | Server-side rendering, API routes |
-| TypeScript | Type safety, better developer experience |
-| AWS | Cloud deployment, serverless functions |
-| Docker | Containerization, orchestration |
+- 🔭 **Working on:** Full-stack web applications
+- 🐳 **Learning:** Docker and containerization
+- 🤖 **Exploring:** AI/ML with Python, Pandas, scikit-learn
+- 🌱 **Improving:** Backend engineering and DevOps
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+I'm always open to discussing new projects, technical collaborations, or opportunities to contribute to meaningful products.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barento-hashum-2a67221a6)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barentohashum11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barento999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portifolio-barento.vercel.app/)
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barento999&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Barento999&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
